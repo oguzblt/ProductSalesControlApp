@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\bin\Debug\ProductSalesApp.exe.config
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\bin\Debug\ProductSalesApp.exe
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\bin\Debug\ProductSalesApp.pdb
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\obj\Debug\ProductSalesApp.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\obj\Debug\ProductSalesApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\obj\Debug\ProductSalesApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\obj\Debug\ProductSalesApp.csproj.CopyComplete
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\obj\Debug\ProductSalesApp.exe
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\obj\Debug\ProductSalesApp.pdb
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\obj\Debug\ProductSalesApp.Migrations.update.resources
+C:\Users\pc\source\repos\ProductSalesApp\ProductSalesApp\obj\Debug\ProductSalesApp.csproj.GenerateResource.cache
